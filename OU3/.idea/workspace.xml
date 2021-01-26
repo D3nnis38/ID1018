@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8b93ed9-c429-4d69-806b-ecc9848c4151" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kjjPSUG25IbVFKnNlxVDiukBwx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BestamDenKortasteVagen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BestamDenKortasteVagen" />
+      <module name="OU3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BestamDenKortasteVagen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8b93ed9-c429-4d69-806b-ecc9848c4151" name="Default Changelist" comment="" />
+      <created>1606220870594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606220870594</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="209" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1606221613516">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="399" y="209" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1606221613516" />
+    <state width="1638" height="112" key="GridCell.Tab.0.bottom" timestamp="1606989691372">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="112" key="GridCell.Tab.0.bottom/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1606989691372" />
+    <state width="1638" height="112" key="GridCell.Tab.0.center" timestamp="1606989691371">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="112" key="GridCell.Tab.0.center/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1606989691371" />
+    <state width="1638" height="112" key="GridCell.Tab.0.left" timestamp="1606989691371">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="112" key="GridCell.Tab.0.left/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1606989691371" />
+    <state width="1638" height="112" key="GridCell.Tab.0.right" timestamp="1606989691372">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="112" key="GridCell.Tab.0.right/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1606989691372" />
+    <state x="631" y="190" key="SettingsEditor" timestamp="1606223429491">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="631" y="190" key="SettingsEditor/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1606223429491" />
+    <state x="421" y="261" width="837" height="550" key="find.popup" timestamp="1606221522039">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="421" y="261" width="837" height="550" key="find.popup/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1606221522039" />
+    <state x="505" y="250" key="search.everywhere.popup" timestamp="1606221529067">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" key="search.everywhere.popup/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1606221529067" />
+  </component>
+</project>

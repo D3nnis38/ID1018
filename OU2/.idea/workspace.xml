@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e1de6b2-6259-4845-b41c-21736f6bddaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k6UX4m7LFoMnZ3qf8XVjAht92k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.EnTriangelOchDessCirklar">
+    <configuration name="EnTriangelOchDessCirklar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnTriangelOchDessCirklar" />
+      <module name="OU2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangel" />
+      <module name="OU2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EnTriangelOchDessCirklar" />
+        <item itemvalue="Application.Triangel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1de6b2-6259-4845-b41c-21736f6bddaa" name="Default Changelist" comment="" />
+      <created>1605020570937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605020570937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="284" key="GridCell.Tab.0.bottom" timestamp="1605195418266">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="284" key="GridCell.Tab.0.bottom/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1605195418266" />
+    <state width="1638" height="284" key="GridCell.Tab.0.center" timestamp="1605195418266">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="284" key="GridCell.Tab.0.center/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1605195418266" />
+    <state width="1638" height="284" key="GridCell.Tab.0.left" timestamp="1605195418265">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="284" key="GridCell.Tab.0.left/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1605195418265" />
+    <state width="1638" height="284" key="GridCell.Tab.0.right" timestamp="1605195418266">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="284" key="GridCell.Tab.0.right/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1605195418266" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1605189280342">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1605189280342" />
+  </component>
+</project>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8992f4f-bf56-452f-ba68-aa7682d59283" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lR6DQZX7tre2ITgpvzlcvh3Tdw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ReachableFieldsOnChessboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReachableFieldsOnChessboard" />
+      <module name="EU3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReachableFieldsOnChessboard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8992f4f-bf56-452f-ba68-aa7682d59283" name="Default Changelist" comment="" />
+      <created>1607547437170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607547437170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="96" key="GridCell.Tab.0.bottom" timestamp="1607688272766">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="96" key="GridCell.Tab.0.bottom/-1180.23.1180.797/0.23.1680.1027@0.23.1680.1027" timestamp="1607688272766" />
+    <state width="1638" height="96" key="GridCell.Tab.0.center" timestamp="1607688272766">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="96" key="GridCell.Tab.0.center/-1180.23.1180.797/0.23.1680.1027@0.23.1680.1027" timestamp="1607688272766" />
+    <state width="1638" height="96" key="GridCell.Tab.0.left" timestamp="1607688272765">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="96" key="GridCell.Tab.0.left/-1180.23.1180.797/0.23.1680.1027@0.23.1680.1027" timestamp="1607688272765" />
+    <state width="1638" height="96" key="GridCell.Tab.0.right" timestamp="1607688272766">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="96" key="GridCell.Tab.0.right/-1180.23.1180.797/0.23.1680.1027@0.23.1680.1027" timestamp="1607688272766" />
+    <state x="498" y="293" width="683" height="486" key="find.popup" timestamp="1607547643601">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="498" y="293" width="683" height="486" key="find.popup/-1302.76.1302.937/0.23.1680.1027@0.23.1680.1027" timestamp="1607547643601" />
+  </component>
+</project>
